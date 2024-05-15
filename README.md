@@ -2,4 +2,5 @@
  programação Python
  - Operadores expressão aritmética.
  - Operedores aritméticos.
- - Operadores de Comparalção.
+ - Operadores de Comparação.
+ - Operadores Lógicos And, or , Not
