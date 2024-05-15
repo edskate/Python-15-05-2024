@@ -1,6 +1,6 @@
 x = y = z = 0
-x = 7
-y = 9
+x = int(input('digite um numero: '))
+y = int(input('digite outro numero: '))
 
 z = x + y
 
@@ -9,12 +9,12 @@ print('A soma de dois valores é ', z)
 
 x = y = z = 10
 
-x = 10
-y = 20
+x = int(input('digite um numero: '))
+y = int(input('digite outro numero: '))
 
 z = x - y
 
-print('A subtração de dois valores é ', z)
+print('A subtração de dois valores é', z)
 
 y = 10
 x = 20
